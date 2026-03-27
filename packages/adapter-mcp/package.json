@@ -2,7 +2,7 @@
   "name": "@solana-agent-kit/adapter-mcp",
   "version": "2.0.7", 
   "type": "module",
-  "description": "Create MCP servers with the Solana Agent Kit",
+  "description": "Create MCP servers with Troupe CryptoSpace Solana Agent Kit",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -26,9 +26,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sendaifun/solana-agent-kit.git"
+    "url": "https://github.com/TroupeCrypto/solana-agent-kit.git"
   },
-  "homepage": "https://github.com/sendaifun/solana-agent-kit/tree/v2/packages/adapter-mcp",
+  "homepage": "https://github.com/TroupeCrypto/solana-agent-kit/tree/v2/packages/adapter-mcp",
   "engines": {
     "node": ">=22.0.0",
     "pnpm": ">=8.0.0"
@@ -37,10 +37,13 @@
     "solana",
     "mcp",
     "model context protocol",
-    "solana agent kit",
-    "sendai"
+    "crypto",
+    "web3",
+    "investing",
+    "troupe",
+    "cryptospace"
   ],
-  "author": "sendaifun",
+  "author": "TroupeCrypto",
   "license": "Apache-2.0",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.7.0",

@@ -30,9 +30,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sendaifun/solana-agent-kit.git"
+    "url": "https://github.com/TroupeCrypto/solana-agent-kit.git"
   },
-  "homepage": "https://github.com/sendaifun/solana-agent-kit/tree/v2/packages/plugin-blinks",
+  "homepage": "https://github.com/TroupeCrypto/solana-agent-kit/tree/v2/packages/plugin-blinks",
   "dependencies": {
     "rpc-websockets": "^10.0.0",
     "solana-agent-kit": "workspace:*",

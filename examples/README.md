@@ -1,4 +1,4 @@
-# Solana Agent Kit Examples
+# Troupe CryptoSpace — Solana Agent Kit Examples
 
 This directory contains a collection of examples demonstrating various implementations of the Solana Agent Kit. These examples are organized by category to help you find the right starting point for your project.
 
@@ -52,13 +52,13 @@ Most examples require:
 To clone an example, you can make use of gitpick, like so:
 
 ```bash
-npx gitpick sendaifun/solana-agent-kit/examples/<example-category>/<example-name>
+npx gitpick TroupeCrypto/solana-agent-kit/examples/<example-category>/<example-name>
 ```
 
 For example:
 
 ```bash
-npx gitpick sendaifun/solana-agent-kit/examples/defi/market-making-agent
+npx gitpick TroupeCrypto/solana-agent-kit/examples/defi/market-making-agent
 ```
 
 ## Contributing

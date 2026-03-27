@@ -1,16 +1,14 @@
 <div align="center">
 
-# Solana Agent Kit
-
-![SAKCover2](https://github.com/user-attachments/assets/a6072421-8958-4cee-934a-a10ea32ae75e)
+# Troupe CryptoSpace — Solana Agent Kit
 
 ![NPM Downloads](https://img.shields.io/npm/dm/solana-agent-kit?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/sendaifun/solana-agent-kit?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/sendaifun/solana-agent-kit?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/TroupeCrypto/solana-agent-kit?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/TroupeCrypto/solana-agent-kit?style=for-the-badge)
 
 </div>
 
-An open-source toolkit for connecting AI agents to Solana protocols. Now, any agent, using any model can autonomously perform 60+ Solana actions:
+An open-source toolkit powering Troupe CryptoSpace's crypto and web3 investing operations. Connect AI agents to Solana protocols — any agent, using any model, can autonomously perform 60+ Solana actions:
 
 - Trade tokens
 - Launch new tokens
@@ -21,10 +19,7 @@ An open-source toolkit for connecting AI agents to Solana protocols. Now, any ag
 - Bridge tokens across chains
 - And more...
 
-Anyone - whether an SF-based AI researcher or a crypto-native builder - can bring their AI agents trained with any model and seamlessly integrate with Solana.
-
-[![Run on Repl.it](https://replit.com/badge/github/sendaifun/solana-agent-kit)](https://replit.com/@sendaifun/Solana-Agent-Kit)
-> Replit template created by [Arpit Singh](https://github.com/The-x-35)
+Anyone — whether an AI researcher or a crypto-native builder — can bring their AI agents trained with any model and seamlessly integrate with Solana.
 
 ## 🔧 Core Blockchain Features
 
