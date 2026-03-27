@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "maple",
-  "name": "Solana Agent Kit",
+  "name": "Troupe CryptoSpace — Solana Agent Kit",
   "colors": {
     "primary": "#9945FF",
     "light": "#14F195",
@@ -343,7 +343,7 @@
   },
   "footer": {
     "socials": {
-      "github": "https://github.com/sendaifun/solana-agent-kit"
+      "github": "https://github.com/TroupeCrypto/solana-agent-kit"
     }
   }
 }

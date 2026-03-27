@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "connect any ai agents to solana protocols",
+  "description": "Troupe CryptoSpace — Crypto/Web3 Investing Department: AI agents for Solana protocols",
   "scripts": {
     "clean": "rm -rf dist .turbo node_modules",
     "build": "tsup src/index.ts --dts --clean --format cjs,esm --out-dir dist",
@@ -28,9 +28,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sendaifun/solana-agent-kit.git"
+    "url": "https://github.com/TroupeCrypto/solana-agent-kit.git"
   },
-  "homepage": "https://github.com/sendaifun/solana-agent-kit/tree/v2/packages/core",
+  "homepage": "https://github.com/TroupeCrypto/solana-agent-kit/tree/v2/packages/core",
   "engines": {
     "node": ">=22.0.0",
     "pnpm": ">=8.0.0"
@@ -39,10 +39,13 @@
     "solana",
     "agent",
     "ai",
-    "solana agent kit",
-    "sendai"
+    "crypto",
+    "web3",
+    "investing",
+    "troupe",
+    "cryptospace"
   ],
-  "author": "sendaifun",
+  "author": "TroupeCrypto",
   "license": "Apache-2.0",
   "devDependencies": {
     "@types/node": "^22.10.2",

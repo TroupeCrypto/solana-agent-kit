@@ -1,19 +1,15 @@
-> [!TIP]
-> checkout [Suzi](https://suzi.trade) 🌸  by SendAI
-
-
 <div align="center">
 
-# Solana Agent Kit
+# Troupe CryptoSpace — Solana Agent Kit
 
-![SAKCover2](https://github.com/user-attachments/assets/a6072421-8958-4cee-934a-a10ea32ae75e)
+**Crypto/Web3 Investing Department**
 
 [![NPM Downloads](https://img.shields.io/npm/dm/solana-agent-kit?style=for-the-badge)](https://www.npmjs.com/package/solana-agent-kit)
-[![GitHub forks](https://img.shields.io/github/forks/sendaifun/solana-agent-kit?style=for-the-badge)](https://github.com/sendaifun/solana-agent-kit/network/members)
-[![GitHub License](https://img.shields.io/github/license/sendaifun/solana-agent-kit?style=for-the-badge)](https://github.com/sendaifun/solana-agent-kit/blob/v2/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/TroupeCrypto/solana-agent-kit?style=for-the-badge)](https://github.com/TroupeCrypto/solana-agent-kit/network/members)
+[![GitHub License](https://img.shields.io/github/license/TroupeCrypto/solana-agent-kit?style=for-the-badge)](https://github.com/TroupeCrypto/solana-agent-kit/blob/v2/LICENSE)
 </div>
 
-An open-source toolkit for connecting AI agents to Solana protocols. Now, any agent, using any model can autonomously perform 60+ Solana actions:
+An open-source toolkit powering Troupe CryptoSpace's crypto and web3 investing operations. Connect AI agents to Solana protocols — any agent, using any model, can autonomously perform 60+ Solana actions:
 
 - Trade tokens
 - Launch new tokens
@@ -24,10 +20,7 @@ An open-source toolkit for connecting AI agents to Solana protocols. Now, any ag
 - Bridge tokens across chains
 - And more...
 
-Anyone - whether an SF-based AI researcher or a crypto-native builder - can bring their AI agents trained with any model and seamlessly integrate with Solana.
-
-[![Run on Repl.it](https://replit.com/badge/github/sendaifun/solana-agent-kit)](https://replit.com/@sendaifun/Solana-Agent-Kit)
-> Replit template created by [Arpit Singh](https://github.com/The-x-35)
+Anyone — whether an AI researcher or a crypto-native builder — can bring their AI agents trained with any model and seamlessly integrate with Solana.
 
 ## 🔧 Core Blockchain Features
 
@@ -109,7 +102,7 @@ Anyone - whether an SF-based AI researcher or a crypto-native builder - can brin
 
 ## 📃 Documentation
 
-You can view the full documentation of the kit at [docs.sendai.fun](https://docs.sendai.fun/v0/introduction)
+You can view the full documentation of the kit at [docs.sendai.fun](https://docs.sendai.fun/v0/introduction) (upstream docs).
 
 ## Why We Built V2 and Why Upgrade?
 
@@ -889,13 +882,13 @@ Refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on how to co
 
 ## Contributors
 
-<a href="https://github.com/sendaifun/solana-agent-kit/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sendaifun/solana-agent-kit" />
+<a href="https://github.com/TroupeCrypto/solana-agent-kit/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TroupeCrypto/solana-agent-kit" />
 </a>
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sendaifun/solana-agent-kit&type=Date)](https://star-history.com/#sendaifun/solana-agent-kit&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=TroupeCrypto/solana-agent-kit&type=Date)](https://star-history.com/#TroupeCrypto/solana-agent-kit&Date)
 
 ## License
 
@@ -903,9 +896,9 @@ Apache-2 License
 
 ## Funding
 
-If you wanna give back any tokens or donations to the OSS community -- The Public Solana Agent Kit Treasury Address:
+If you'd like to contribute tokens or donations to the Troupe CryptoSpace community:
 
-Solana Network : EKHTbXpsm6YDgJzMkFxNU1LNXeWcUW7Ezf8mjUNQQ4Pa
+Solana Network: EKHTbXpsm6YDgJzMkFxNU1LNXeWcUW7Ezf8mjUNQQ4Pa
 
 ## Security
 
@@ -913,4 +906,5 @@ This toolkit handles transaction generation, signing and sending, using provided
 
 ## Attributions
 
-System prompt logic adapted from Coinbase AgentKit (Apache 2.0)
+Forked from [sendaifun/solana-agent-kit](https://github.com/sendaifun/solana-agent-kit) (Apache 2.0).
+System prompt logic adapted from Coinbase AgentKit (Apache 2.0).
